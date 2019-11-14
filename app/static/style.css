@@ -1,22 +1,15 @@
 body{
-  @keyframes back{
-    from {background-color:lightpink;}
-    to {background-color:lightblue;}
+  background-color: lightpurple;
   
-  
-  .main{ 
-    animation-name: back;
-    animation-duration:3s ;
-    animation-iteration-count: infinite;
-    animation-timing-function: linear;
-  }
+}
+ 
    
 
 .no-display {
     display: none;
 }
 
-  }
+  
 .center {
     margin: auto;
     padding: 10px 50px;
