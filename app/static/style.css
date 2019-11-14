@@ -1,8 +1,7 @@
-body {
+
   @keyframes back{
     from {background-color:lightpink;}
     to {background-color:lightblue;}
-}
   
   
   .main{ 
@@ -12,7 +11,6 @@ body {
     animation-timing-function: linear;
   }
    
-}
 
 .no-display {
     display: none;
