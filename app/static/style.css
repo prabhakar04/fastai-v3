@@ -1,14 +1,14 @@
 body {
-    background-color: yellow;
+    @keyframes animation {
+   from {background-color: pink;}
+   to {background-color: green;}
+}
 }
 
 .no-display {
     display: none;
 }
-@keyframes animation {
-   from {background-color: pink;}
-   to {background-color: green;}
-}
+
 
 .center {
     margin: auto;
