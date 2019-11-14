@@ -5,6 +5,10 @@ body {
 .no-display {
     display: none;
 }
+@keyframes animation {
+   from {background-color: pink;}
+   to {background-color: green;}
+}
 
 .center {
     margin: auto;
