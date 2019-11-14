@@ -1,4 +1,4 @@
-
+body{
   @keyframes back{
     from {background-color:lightpink;}
     to {background-color:lightblue;}
@@ -16,7 +16,7 @@
     display: none;
 }
 
-
+  }
 .center {
     margin: auto;
     padding: 10px 50px;
