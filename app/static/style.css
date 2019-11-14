@@ -1,8 +1,8 @@
 body {
     @keyframes animation {
-   from {background-color: pink;}
-   to {background-color: green;}
+   background-color: green;
 }
+
 }
 
 .no-display {
