@@ -60,6 +60,7 @@ button.choose-file-button {
     border: solid 1px #7052CB;
     font-size: 13px;
     color: #7052CB;
+    cursor: pointer;
 }
 
 button.analyze-button {
